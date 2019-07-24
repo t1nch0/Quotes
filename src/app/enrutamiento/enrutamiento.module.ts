@@ -12,9 +12,7 @@ import { StudentDetailComponent } from './student-detail/student-detail.componen
   imports: [
     CommonModule,
     EnrutamientoRoutingModule,
-    StudentComponent,
-    StudentDetailComponent,
-    StudentListComponent
+
   ]
 })
 export class EnrutamientoModule { }
